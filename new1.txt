@@ -1,0 +1,6 @@
+create a contact when industry is set to banking in account 
+trigger CreateContactOnBankingIndustry on Account(after insert)
+
+
+
+
